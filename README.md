@@ -117,6 +117,6 @@ It is suitable for coursework, ML club submissions, internships, and research-or
 
 ## 📬 Author
 
-Rigved
+Rigved Kamlesh Bansal
 
 (BITS Pilani)
